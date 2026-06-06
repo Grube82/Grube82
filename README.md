@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi — I'm the builder behind Crypto ETF Sentinel
 
-<!--
-**Grube82/Grube82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build x402-monetized data oracles and agentic API feeds: live infrastructure that AI agents and applications discover and pay for per request.
 
-Here are some ideas to get you started:
+**Crypto ETF Sentinel** — US spot crypto ETF regulatory intelligence, delivered as a Telegram bot, an x402-paywalled data API, and a Stripe subscription terminal. Live, indexed in the x402 ecosystem, and taking real on-chain payments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+→ https://cryptoetfsentinel.com
+
+**Available for work** — x402 / agentic payment integrations, API monetization, and data feeds. If you need an API turned into something agents can find and pay for, that's my lane.
+
+**Reach me**
+
+- Site: https://cryptoetfsentinel.com
+- X: [@CETFSentinel](https://x.com/CETFSentinel)
+- Email: cryptoetfsentinel@proton.me
