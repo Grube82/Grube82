@@ -9,6 +9,7 @@ I build x402-monetized data oracles and agentic API feeds: live infrastructure t
 **Open source**
 
 - [x402-paid-api-starter](https://github.com/Grube82/x402-paid-api-starter) — a clean FastAPI starter for charging per API call with x402: dual-chain (Base + Solana), testnet→mainnet, receive-only, with discovery and a settlement ledger.
+- [x402-doctor](https://github.com/Grube82/x402-doctor) — lint for your x402 endpoint: a read-only CLI that diagnoses the 402 challenge, spec compliance, browser/agent UX, caching and discovery. Build with the starter, verify with the doctor.
 
 **Available for work** — x402 / agentic payment integrations, API monetization, and data feeds. If you need an API turned into something agents can find and pay for, that's my lane.
 
