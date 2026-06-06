@@ -6,6 +6,10 @@ I build x402-monetized data oracles and agentic API feeds: live infrastructure t
 
 → https://cryptoetfsentinel.com
 
+**Open source**
+
+- [x402-paid-api-starter](https://github.com/Grube82/x402-paid-api-starter) — a clean FastAPI starter for charging per API call with x402: dual-chain (Base + Solana), testnet→mainnet, receive-only, with discovery and a settlement ledger.
+
 **Available for work** — x402 / agentic payment integrations, API monetization, and data feeds. If you need an API turned into something agents can find and pay for, that's my lane.
 
 **Reach me**
