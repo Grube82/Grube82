@@ -1,10 +1,14 @@
-### Hi — I'm the builder behind Crypto ETF Sentinel
+### Hi — I'm the builder behind Crypto ETF Sentinel & Biotech Catalyst Sentinel
 
 I build x402-monetized data oracles and agentic API feeds: live infrastructure that AI agents and applications discover and pay for per request.
 
 **Crypto ETF Sentinel** — US spot crypto ETF regulatory intelligence, delivered as a Telegram bot, an x402-paywalled data API, and a Stripe subscription terminal. Live, indexed in the x402 ecosystem, and taking real on-chain payments.
 
 → https://cryptoetfsentinel.com
+
+**Biotech Catalyst Sentinel** — FDA PDUFA decision-date intelligence for biotech, as an x402-paywalled data API with a free, independently-backtested accuracy proof (median 1-day error). Live, listed in the x402 ecosystem, dual-chain USDC (Base + Solana).
+
+→ https://biotechcatalystsentinel.com
 
 **Open source**
 
