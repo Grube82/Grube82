@@ -8,7 +8,7 @@ I build x402-monetized data oracles and agentic API feeds: live infrastructure t
 
 **Biotech Catalyst Sentinel** — FDA PDUFA decision-date intelligence for biotech, as an x402-paywalled data API with a free, independently-backtested accuracy proof (median 1-day error). Live, listed in the x402 ecosystem, dual-chain USDC (Base + Solana).
 
-→ https://biotechcatalystsentinel.com
+→ https://biotechcatalystsentinel.com · contact@biotechcatalystsentinel.com
 
 **Open source**
 
